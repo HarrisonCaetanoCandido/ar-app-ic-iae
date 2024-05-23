@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<QCARConfig>
-  <Tracking>
-    <ImageTarget name="SOM" size="150.000000 201.612900" />
-    <ImageTarget name="AiMaTarget" size="150.000000 196.875000" />
-    <ImageTarget name="PadroesDeProjetoTarget" size="150.000000 208.276337" />
-  </Tracking>
-</QCARConfig>
