@@ -7,4 +7,4 @@ Antes de executar o projeto, será necessário fazer download da engine Vuforia 
 
 https://developer.vuforia.com/node/4 
 
-O pacote deve ser importado no projeto unity que está no caminho /parcial2/unityfiles, chamado "exported-package".
+O pacote deve ser importado no projeto unity que está no caminho /project/unityfiles, chamado "exported-package".
